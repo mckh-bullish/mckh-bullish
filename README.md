@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mckh-bullish / Michael Cheung working in Data Architecture Team and Connectivity Team.
+- 👋 Hi, I’m @mckh-bullish / Michael Cheung working in Bullish Data Engineering Team and Connectivity Team.
 - 👀 I’m interested in experiencing new things, travelling, hiking, exploring, speed, etc.
 - 🌱 I’m currently learning crypto products, Java low-latency, etc.
 - 💞️ I’m looking to collaborate on making the data platform more self-service.
